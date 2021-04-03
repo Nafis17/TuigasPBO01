@@ -27,6 +27,7 @@ public class biodata
   System.out.println("Nama  : " + name);
   System.out.println("NPM  : " + npm);
   System.out.println("Alamat  : " + alamat);
+ System.out.println("Moto  : Yang menjadi penyesalan saat ini adalah tidak bertanya saat tidak mengerti" );
   System.out.println("------------------------------------------------");
  }
 }
